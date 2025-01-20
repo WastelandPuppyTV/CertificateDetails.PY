@@ -1,0 +1,17 @@
+certificate_details.json
+build/certificate_details/Analysis-00.toc
+build/certificate_details/base_library.zip
+build/certificate_details/certificate_details.pkg
+build/certificate_details/EXE-00.toc
+build/certificate_details/PKG-00.toc
+build/certificate_details/PYZ-00.pyz
+build/certificate_details/PYZ-00.toc
+build/certificate_details/warn-certificate_details.txt
+build/certificate_details/xref-certificate_details.html
+build/certificate_details/localpycs/pyimod01_archive.pyc
+build/certificate_details/localpycs/pyimod02_importers.pyc
+build/certificate_details/localpycs/pyimod03_ctypes.pyc
+build/certificate_details/localpycs/pyimod04_pywin32.pyc
+build/certificate_details/localpycs/struct.pyc
+dist/certificate_details.json
+certificate_details.spec
