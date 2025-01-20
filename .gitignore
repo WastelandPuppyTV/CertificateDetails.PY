@@ -15,3 +15,4 @@ build/certificate_details/localpycs/pyimod04_pywin32.pyc
 build/certificate_details/localpycs/struct.pyc
 dist/certificate_details.json
 certificate_details.spec
+hosts.txt
